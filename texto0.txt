@@ -1,0 +1,4 @@
+[programa.Arma@4b720cc9, programa.Arma@56374bff, programa.Arma@4aa80331, programa.Arma@674c08d7, programa.Arma@3c0344b3, programa.Arma@5087887f, programa.Arma@5abcb8d5]
+[programa.Arma@4b720cc9, programa.Arma@56374bff, programa.Arma@4aa80331, programa.Arma@674c08d7, programa.Arma@3c0344b3, programa.Arma@5087887f, programa.Arma@5abcb8d5]
+[programa.Arma@589b5232, programa.Arma@4eda76db, programa.Arma@763f4286, programa.Arma@62d49f38, programa.Arma@605c4b92, programa.Arma@7d2d85ec, programa.Arma@718ad3bd, programa.Arma@37e1bfeb]
+[programa.Arma@369b8d52, programa.Arma@3f16458a, programa.Arma@10efacd0, programa.Arma@645b4c6d, programa.Arma@ec0bca9, programa.Arma@3f782ee, programa.Arma@6e13376c, programa.Arma@501536e7]
